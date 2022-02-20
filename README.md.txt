@@ -1,0 +1,1 @@
+Calculator that can perform simple operations designed with GUI. It is implemented with Python.
