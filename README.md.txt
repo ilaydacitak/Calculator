@@ -1,5 +1,5 @@
 Calculator that can perform simple operations designed with GUI. It is implemented with Python. 
-There are some functionalities which are presented below;
+There are some functionalities which are presented below; 
 
 - Addition
 - Subs
